@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  imf-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-09-19T14:44:29.917346779+05:30"
+    description: A Helm chart for Kubernetes
+    digest: e7f35684830f78ebe2e444baf8b04c13b03c5f8763b673f6d9e6dd0572f0057b
+    name: imf-chart
+    type: application
+    urls:
+    - https://shalons-devops.github.io/helm-chart-repo/imf-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-09-19T14:44:29.916431123+05:30"
